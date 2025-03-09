@@ -33,5 +33,3 @@ server.listen(8080, (err) => {
     console.log('Error');
   }
 });
-
-server.stop()
